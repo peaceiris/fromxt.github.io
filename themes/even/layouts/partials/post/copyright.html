@@ -8,7 +8,9 @@
     <span class="item-title">{{ T "lastMod" }}</span>
     <span class="item-content">
         {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+        {{ if $.Site.Params.showCommitMessage -}}
         <!--{{ with .GitInfo }}<a href="{{ $.Site.Params.gitRepo }}/commit/{{ .Hash }}" title="{{ .Subject }}">({{ .AbbreviatedHash }})</a>{{ end }}-->
+        {{- end }}
     </span>
   </p>
   {{ if $.Site.Params.linkToMarkDown -}}
