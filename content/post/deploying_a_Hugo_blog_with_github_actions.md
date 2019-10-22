@@ -93,9 +93,10 @@ jobs:
         PUBLISH_DIR: ./public
 ```
 The above sample is for [Project Pages sites]. (`<username>/<project_name>` repository)
+
 We can get the detail workflow syntax for GitHub Actions from [here](https://help.github.com/en/github/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions)
 
-GitHub Pages bulid and deploy log
+On a push on 'source' branche now the blog is built and published.GitHub Pages bulid and deploy log:
 
 ![](https://f000.backblazeb2.com/file/canicula/ImgURL/deploy.png) |
 
