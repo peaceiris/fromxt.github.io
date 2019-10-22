@@ -1,6 +1,6 @@
 # Deploying a Hugo Blog with GitHub Actions
 
-We already can use [Travis-CI](https://travis-ci.org) and [Netlify](https://www.netlify.com) to build and deploy Static Sites, Now a much better way is introduced to deploy automatically using Github Actions which makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want.You can sign up free the beta from [here](https://github.com/features/actions). Let’s dive in.
+We already can use [Travis-CI](https://travis-ci.org) and [Netlify](https://www.netlify.com) to build and deploy Static Sites, Now a much better way is introduced to deploy automatically using Github Actions which makes it easy to automate all our software workflows, now with world-class CI/CD. Build, test, and deploy we code right from GitHub. Make code reviews, branch management, and issue triaging work the way we want.We can sign up free the beta from [here](https://github.com/features/actions). Let’s dive in.
 
 ## Getting started
 
