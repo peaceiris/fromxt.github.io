@@ -11,13 +11,15 @@ tags:
 
 ---
 
-We already can use [Travis-CI](https://travis-ci.org) and [Netlify](https://www.netlify.com) to build and deploy Static Sites, Now a much better way is introduced to deploy automatically using Github Actions which makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy our code right from GitHub. Make code reviews, branch management, and issue triaging work the way we want.We can sign up free the beta from [here](https://github.com/features/actions). Let’s dive in.
-<!--more-->
-## Getting started
+We already can use [Travis-CI](https://travis-ci.org) and [Netlify](https://www.netlify.com) to build and deploy Static Sites, Now a much better way is introduced to deploy automatically using Github Actions,a new way to automate and customize your workflows.We’re just scratching the surface of what GitHub Actions can do. Once you get started, you’ll be able to build, package, release, update, and deploy your project in any language—on GitHub or any external system—without having to run code yourself.
 
-### (1)  Creat a new repository named xxx.github.io. 
-For [User and Organization Pages sites] (`<username>/<username>.github.io` repository),we have to set `master` branch to `PUBLISH_BRANCH`.
-We can creat a new branch named 'source' to store site source codes.
+[Sign up for the limited public beta of GitHub Actions](https://github.com/features/actions).Let’s dive in.
+<!--more-->
+
+## Step-by-step Instructions
+
+### (1)  Creat a new \<username>\.github.io repository . 
+This's the repository that will contain the fully rendered version of my Hugo website.For [User and Organization Pages sites] (`<username>/<username>.github.io` repository),we have to set `master` branch to `PUBLISH_BRANCH`, then We can creat a new branch named 'source' to store site source codes.
 ![source branch](https://f000.backblazeb2.com/file/canicula/ImgURL/source+branch.png)
 
 ### (2) Add SSH deploy key
