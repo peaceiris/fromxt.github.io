@@ -7,8 +7,8 @@ We already can use [Travis-CI](https://travis-ci.org) and [Netlify](https://www.
 ## Step-by-step Instructions
 
 ### (1)  Creat a new \<USERNAME\>.github.io repository
-This's the repository that will contain the fully rendered version of your Hugo website.For [User and Organization Pages sites] (`<username>/<username>.github.io` repository),we have to set `master` branch as our publishing branch.
-We should creat a new branch named 'source' to store all markdown codes of blog.
+This's the repository that will contain the fully rendered version of your Hugo website.For [User and Organization Pages sites] (`<username>/<username>.github.io` repository), we have to set `master` branch as our publishing branch.
+We should creat a new branch named 'source' to store all markdown codes for blog.
 
 ![source branch](https://f000.backblazeb2.com/file/canicula/ImgURL/source+branch.png)
 
@@ -51,7 +51,7 @@ An example workflow for Hugo.
 ![peaceiris/actions-hugo latest version](https://img.shields.io/github/release/peaceiris/actions-hugo.svg?label=peaceiris%2Factions-hugo)
 ![peaceiris/actions-gh-pages latest version](https://img.shields.io/github/release/peaceiris/actions-gh-pages.svg?label=peaceiris%2Factions-gh-pages)
 
-We can refer to the project, and make some modifications. Add a '.github/workflows/main.yml' file with content like the following:
+We can refer to the project, and make some modifications. Add a `.github/workflows/main.yml` file with content like the following:
 ```yaml
 name: github pages
 
@@ -90,6 +90,9 @@ That's it. See the [action.yml](https://help.github.com/en/github/automating-you
 ### (4) Build and Deployment
 ![](https://f000.backblazeb2.com/file/canicula/ImgURL/deploy.png) |
 
-At this point, We have everything setup to automatically build and publish your site whenever you push to master. Happy blogging!
+## Summary
+
+At this point, We have everything setup to automatically build and publish your site whenever you push to master. 
+Happy blogging!
 
 
