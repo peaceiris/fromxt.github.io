@@ -50,7 +50,8 @@ Next, Go to **Repository Settings**
 
 ### (3) Create your workflow
 
-Add your workflow setting YAML file `.github/workflows/main.yml` and push to the 'source' branch.
+Add your workflow setting YAML file `.github/workflows/main.yml` and push to the `source` branch.
+We can refer to the following project, and make some modifications.
 #### ⭐️ Repository type - Project
 
 An example workflow for Hugo.
@@ -62,7 +63,7 @@ An example workflow for Hugo.
 ![peaceiris/actions-hugo latest version](https://img.shields.io/github/release/peaceiris/actions-hugo.svg?label=peaceiris%2Factions-hugo)
 ![peaceiris/actions-gh-pages latest version](https://img.shields.io/github/release/peaceiris/actions-gh-pages.svg?label=peaceiris%2Factions-gh-pages)
 
-We can refer to the project, and make some modifications. Add a `.github/workflows/main.yml` file with content like the following:
+Add a `.github/workflows/main.yml` file with content like the following:
 ```yaml
 name: github pages
 
