@@ -94,9 +94,15 @@ jobs:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: master
         PUBLISH_DIR: ./public
-
+     #with:
+     #  keepFiles: true
 ```
->_note: push on 'source' branch will trigger the workflow,fina/ly publish on 'master' branch._
+_Note:_
+
+_1.push on 'source' branch will trigger the workflow,fina/ly publish on 'master' branch._
+
+_2.If you want the action to add new files but leave existing ones untouched, set the optional parameter `keepFiles` to `true`._
+
 That's it. See the [action.yml](https://help.github.com/en/github/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions) file for more information on the available configuration options.
 
 ### (4) Build and Deployment
