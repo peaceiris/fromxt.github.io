@@ -93,6 +93,6 @@ That's it. See the [action.yml](https://help.github.com/en/github/automating-you
 ## Summary
 
 At this point, We have everything setup to automatically build and publish your site whenever you push to master. 
-Happy blogging!
+Happy blogging!!
 
 
