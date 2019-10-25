@@ -44,7 +44,8 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
  <b>value</b>
    <center><textarea type="text" name="value" spellcheck="false" class="form-control" style="width:100%; height:150px;">Input your url</textarea></center>
     <b>size</b>
-    <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">level
+    <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">
+    <b>level</b>
     <select name="level">
         <option value="L">L - 7% damage</option>
         <option value="M">M - 15% damage</option>
