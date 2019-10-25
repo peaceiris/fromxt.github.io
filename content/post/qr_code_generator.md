@@ -44,7 +44,7 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
         }
     </style>
         <img id="qrious">
-
+<div class="test">
         <form autocomplete="off">
             <label>
                 value
@@ -76,3 +76,4 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
                 <input type="color" name="foreground" value="#000000">
             </label>
         </form>
+</div>
