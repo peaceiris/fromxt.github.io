@@ -8,7 +8,7 @@ We already can use [Travis-CI](https://travis-ci.org) and [Netlify](https://www.
 
 ### (1)  Creat a new \<username\>.github.io repository
 This's the repository that will contain the fully rendered version of your Hugo website.For [User and Organization Pages sites] (`<username>/<username>.github.io` repository), we have to set `master` branch as our publishing branch.
-We should creat a new branch named 'source' to store all markdown codes for blog.
+We should creat a new branch named 'source' to store all your content of blog.
 
 ![source branch](https://f000.backblazeb2.com/file/canicula/ImgURL/source+branch.png)
 
