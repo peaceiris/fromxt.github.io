@@ -77,7 +77,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 37. [Pdfcyborg](https://pdfcyborg.com/) - Convert any web page into a pdf document
 38. [Bccto.me](http://mail.bccto.me/?lang=cn) - Temp mail
 39. [CFproxy](https://go.goso.workers.dev/) - Build jsproxy on Cloudflare Worker.
-40. [JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - HK proxy
+40. [JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - hk proxy
 41. [Password](https://password.devro.club/) - Generate a Secure Password with a Sharable Link.
 42. [Pastery](https://www.pastery.net/) - Cache files forever
 43. [Onlinegdb](https://www.onlinegdb.com/) - online compiler and debugger for c/c++
