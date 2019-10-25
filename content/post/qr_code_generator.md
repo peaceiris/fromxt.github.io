@@ -43,9 +43,9 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
 <center><img id="qrious"></center>
 
 <form autocomplete="off">
- **value**
+ <b>value</b>
    <center><textarea type="text" name="value" spellcheck="false" class="form-control" style="width:100%; height:150px;">Input your url</textarea></center>
-    **size**
+    <b>size</b>
     <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">level
     <select name="level">
         <option value="L">L - 7% damage</option>
@@ -53,9 +53,9 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
         <option value="Q">Q - 25% damage</option>
         <option value="H">H - 30% damage</option>
     </select>
-    **background**
+    <b>background</b>
     <input type="color" name="background" value="#ffffff">
-    **foreground**
+    <b>foreground</b>
     <input type="color" name="foreground" value="#000000">
 </form>
 
@@ -74,26 +74,20 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
             size: 250,
             value: 'QRious'
         })
-
         $background.addEventListener('change', function () {
             qr.background = $background.value || null
         })
-
         $foreground.addEventListener('change', function () {
             qr.foreground = $foreground.value || null
         })
-
         $level.addEventListener('change', function () {
             qr.level = $level.value
         })
-
         $size.addEventListener('change', function () {
             if (!$size.validity.valid) {
                 return
             }
-
             qr.size = $size.value || null
-
             $section.style.minWidth = qr.size + 'px'
         })
 
