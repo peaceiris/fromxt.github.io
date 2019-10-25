@@ -27,12 +27,7 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
         display: flex;
         justify-content: center;
         align-items: center;
-    }
-    main form label {
-        display: block;
-        margin-top: 10px;
-        color: #444;
-        font-weight: bold;
+        box-shadow: 0 0 10px 5px #666;
     }
     main form input,
     main form select {
@@ -48,9 +43,9 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
 <center><img id="qrious"></center>
 
 <form autocomplete="off">
- value
+ **value**
    <center><textarea type="text" name="value" spellcheck="false" class="form-control" style="width:100%; height:150px;">Input your url</textarea></center>
-    size
+    **size**
     <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">level
     <select name="level">
         <option value="L">L - 7% damage</option>
@@ -58,8 +53,9 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
         <option value="Q">Q - 25% damage</option>
         <option value="H">H - 30% damage</option>
     </select>
-    background
-    <input type="color" name="background" value="#ffffff">foreground
+    **background**
+    <input type="color" name="background" value="#ffffff">
+    **foreground**
     <input type="color" name="foreground" value="#000000">
 </form>
 
