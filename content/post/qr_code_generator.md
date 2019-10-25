@@ -27,7 +27,7 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
         display: flex;
         justify-content: center;
         align-items: center;
-        box-shadow: 0 0 10px 5px #666;
+        box-shadow: 0 0 2px 1px #666;
     }
     main form input,
     main form select {
