@@ -40,7 +40,6 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
     }
 </style>
 <center><img id="qrious"></center>
-
 <form autocomplete="off">
  <b>value</b>
    <center><textarea type="text" name="value" spellcheck="false" class="form-control" style="width:100%; height:150px;">Input your url</textarea></center>
