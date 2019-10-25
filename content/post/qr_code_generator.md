@@ -43,10 +43,7 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
             color: #f00;
         }
     </style>
-
-
-
- <center> <section>
+<center> 
                                 <img id="qrious">
 
                                 <form autocomplete="off">
@@ -80,4 +77,5 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
                                         <input type="color" name="foreground" value="#000000">
                                     </label>
                                 </form>
-                            </section></center>
+                           </center>
+
