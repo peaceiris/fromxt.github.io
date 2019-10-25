@@ -39,7 +39,6 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
         color: #f00;
     }
 </style>
-<br></br>
 <center><img id="qrious"></center>
 
 <form autocomplete="off">
