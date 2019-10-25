@@ -43,39 +43,36 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
             color: #f00;
         }
     </style>
-<center> 
-                                <img id="qrious">
+        <img id="qrious">
 
-                                <form autocomplete="off">
-                                    <label>
-                                        value
-                                        <textarea type="text" name="value" spellcheck="false" class="form-control" style="width:100%; height:150px;">Input your url</textarea>
-                                    </label>
+        <form autocomplete="off">
+            <label>
+                value
+                <textarea type="text" name="value" spellcheck="false" class="form-control" style="width:100%; height:150px;">Input your url</textarea>
+            </label>
 
-                                    <label>
-                                        size
-                                        <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">
-                                    </label>
+            <label>
+                size
+                <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">
+            </label>
 
-                                    <label>
-                                        level
-                                        <select name="level">
-                                            <option value="L">L - 7% damage</option>
-                                            <option value="M">M - 15% damage</option>
-                                            <option value="Q">Q - 25% damage</option>
-                                            <option value="H">H - 30% damage</option>
-                                        </select>
-                                    </label>
+            <label>
+                level
+                <select name="level">
+                    <option value="L">L - 7% damage</option>
+                    <option value="M">M - 15% damage</option>
+                    <option value="Q">Q - 25% damage</option>
+                    <option value="H">H - 30% damage</option>
+                </select>
+            </label>
 
-                                    <label>
-                                        background
-                                        <input type="color" name="background" value="#ffffff">
-                                    </label>
+            <label>
+                background
+                <input type="color" name="background" value="#ffffff">
+            </label>
 
-                                    <label>
-                                        foreground
-                                        <input type="color" name="foreground" value="#000000">
-                                    </label>
-                                </form>
-                           </center>
-
+            <label>
+                foreground
+                <input type="color" name="foreground" value="#000000">
+            </label>
+        </form>
