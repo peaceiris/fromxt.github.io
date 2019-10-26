@@ -42,7 +42,12 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
 <center><img id="qrious"></center>
 <form autocomplete="off">
  <b>value</b>
-   <center><textarea type="text" name="value" spellcheck="false" class="form-control" style="width:100%; height:150px;">Input your url</textarea></center>
+   <center>
+   <textarea type="text" name="value" spellcheck="false" class="form-control" value="Entering a URL"
+    onblur="if(this.value==''){ this.value='Entering a URL'; this.style.color='#BBB';}"
+    onfocus="if(this.value=='Entering a URL'){ this.value=''; this.style.color='#000';}"
+    style="color:#BBB;">Entering a URL</textarea>
+    </center>
     <b>size</b>
     <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">
     <b>level</b>
