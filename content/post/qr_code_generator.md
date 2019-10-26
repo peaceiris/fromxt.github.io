@@ -43,10 +43,11 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
 <form autocomplete="off">
  <b>value</b>
    <center>
-   <textarea type="text" name="value" spellcheck="false" class="form-control" value="Entering a URL"
+   <textarea type="text" name="value" spellcheck="false" class="form-control" 
+    style="width:100%; height:150px;" value="Entering a URL"
     onblur="if(this.value==''){ this.value='Entering a URL'; this.style.color='#BBB';}"
     onfocus="if(this.value=='Entering a URL'){ this.value=''; this.style.color='#000';}"
-    style="color:#BBB;">Entering a URL</textarea>
+    style="color:#BBB;" >Entering a URL</textarea>
     </center>
     <b>size</b>
     <input type="number" name="size" placeholder="100" min="100" max="1000" value="250">
