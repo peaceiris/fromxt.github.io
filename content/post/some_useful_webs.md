@@ -88,6 +88,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 48. [Jsfiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 49. [Imgbb.com](https://imgbb.com/) - Upload and share your images.
 50. [Chot.xyz](https://chot.xyz/) - Chat instantly without distractions,private,for free.
+51. [Windows utilities](Curated list of Windows utilities) - Curated list of Windows utilities
 
 
 *Edit1: add Removebackground,TeraCloud 2018-12-26*
