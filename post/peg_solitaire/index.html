@@ -1,0 +1,82 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge,chrome=1"><title>Peg Solitaire in JavaScript - Canary - Home page</title><meta name=renderer content=webkit><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><meta http-equiv=cache-control content=no-transform><meta http-equiv=cache-control content=no-siteapp><meta name=theme-color content=#f8f5ec><meta name=msapplication-navbutton-color content=#f8f5ec><meta name=apple-mobile-web-app-capable content=yes><meta name=apple-mobile-web-app-status-bar-style content=#f8f5ec><meta name=author content=Canary><meta name=description content="Recommend some awesome lite website"><meta name=keywords content=Hugo,Canary,even><meta name=generator content="Hugo 0.58.3 with theme even"><link rel=canonical href=https://fromxt.github.io/post/peg_solitaire/><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/manifest.json><link rel=mask-icon href=/safari-pinned-tab.svg color=#5bbad5><script async src=//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js></script><link href=/dist/even.c2a46f00.min.css rel=stylesheet><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin=anonymous><meta property=og:title content="Peg Solitaire in JavaScript"><meta property=og:description content="Recommend some awesome lite website"><meta property=og:type content=article><meta property=og:url content=https://fromxt.github.io/post/peg_solitaire/><meta property=article:published_time content=2019-10-28T00:00:00+00:00><meta property=article:modified_time content=2019-10-28T17:13:42+08:00><meta itemprop=name content="Peg Solitaire in JavaScript"><meta itemprop=description content="Recommend some awesome lite website"><meta itemprop=datePublished content=2019-10-28T00:00:00&#43;00:00><meta itemprop=dateModified content=2019-10-28T17:13:42&#43;08:00><meta itemprop=wordCount content=407><meta itemprop=keywords content="Peg Solitaire,JavaScript,"><meta name=twitter:card content=summary><meta name=twitter:title content="Peg Solitaire in JavaScript"><meta name=twitter:description content="Recommend some awesome lite website"><!--[if lte IE 9]><script src=https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js></script><![endif]--><!--[if lt IE 9]><script src=https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js></script><script src=https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js></script><![endif]--></head><body><div id=mobile-navbar class=mobile-navbar><div class=mobile-header-logo><a href=/ class=logo>Canary</a></div><div class=mobile-navbar-icon><span></span><span></span><span></span></div></div><nav id=mobile-menu class="mobile-menu slideout-menu"><ul class=mobile-menu-list><a href=/><li class=mobile-menu-item>Home</li></a><a href=/post/><li class=mobile-menu-item>Archives</li></a><a href=/tags/><li class=mobile-menu-item>Tags</li></a><a href=/categories/><li class=mobile-menu-item>Categories</li></a></ul></nav><div class=container id=mobile-panel><header id=header class=header><div class=logo-wrapper><a href=/ class=logo>Canary</a></div><nav class=site-navbar><ul id=menu class=menu><li class=menu-item><a class=menu-item-link href=/>Home</a></li><li class=menu-item><a class=menu-item-link href=/post/>Archives</a></li><li class=menu-item><a class=menu-item-link href=/tags/>Tags</a></li><li class=menu-item><a class=menu-item-link href=/categories/>Categories</a></li></ul></nav></header><main id=main class=main><div class=content-wrapper><div id=content class=content><article class=post><header class=post-header><h1 class=post-title>Peg Solitaire in JavaScript</h1><div class=post-meta><span class=post-time>October 28, 2019</span><div class=post-category><a href=/categories/miscellaneous/>Miscellaneous</a></div><span class=more-meta>407 words</span>
+<span class=more-meta>2 mins read</span>
+<span id=busuanzi_container_page_pv class=more-meta><span id=busuanzi_value_page_pv><img src=/img/spinner.svg alt=spinner.svg></span> times read</span></div></header><div class=post-toc id=post-toc><h2 class=post-toc-title>Contents</h2><div class="post-toc-content always-active"><nav id=TableOfContents><ul><li><a href=#how-to-play>How to play?</a></li></ul></nav></div></div><div class=post-content><p><a href=https://en.wikipedia.org/wiki/Peg_solitaire>Peg Solitaire</a> is a game in which you need to remove every piece of pegs from the board except one. To remove a ball, you must jump over it with another one. A valid move is to jump a peg over an adjacent peg into a hole two positions away and then to remove the jumped peg. Only vertical or horizontal movement is allowed in most board types. Diagonal movement is allowed only in the Triagular board. This may sound easy, but without a good strategy, you will get stuck sooner or later.</p><h1 id=how-to-play>How to play?</h1><p>Select one kind of five patterns below and click <strong>restart</strong> button, then, select a peg,click once and drag it , jumping over another single peg to a empty hole (white box).</p><p><head><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><script type=text/javascript src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js></script><script type=text/javascript></p><p>function findPos(obj){var curleft=0,curtop=0;if(obj.offsetParent){do{curleft+=obj.offsetLeft;curtop+=obj.offsetTop;}while(obj=obj.offsetParent);return{x:curleft,y:curtop};}
+return undefined;}</p><p>function rgbToHex(r,g,b){if(r&gt;255||g&gt;255||b&gt;255)
+throw&ldquo;Invalid color&rdquo;;return((r&lt;&lt;16)|(g&lt;&lt;8)|b).toString(16);}</p><p></script></head></p><p><center><hd1>Peggy</hr1><br><br><canvas id=boardCanvas width=400 height=400></canvas><br><button type=button onclick=init()>Restart</button><div id=status></div><div id=win></div><br><form><input type=radio name=board id=board1>German - 45 hole<br><input type=radio name=board id=board2 checked>English - 33 hole<br><input type=radio name=board id=board3>Asymmetrical - 39 hole<br><input type=radio name=board id=board4>French - 37 hole<br><input type=radio name=board id=board5>Diamond - 41 hole<br></form></center></p><script>var boardCanvas=document.getElementById('boardCanvas');var context=boardCanvas.getContext('2d');var BOXWIDTH=40;var BOARDER=1;var SQUARE_COLOUR="#ffffff";var SQUARE_SEL_COLOUR="#c9c9bf";var PEG_COLOUR="#ab0707";var red=true;var selectedX=-1;var selectedY=-1;function drawSquare(x,y,colour)
+{context.fillStyle="rgb(171, 7, 7)";context.fillRect(x*BOXWIDTH,y*BOXWIDTH,BOXWIDTH,BOXWIDTH);context.fillStyle=colour;context.fillRect(x*BOXWIDTH+BOARDER,y*BOXWIDTH+BOARDER,BOXWIDTH-2*BOARDER,BOXWIDTH-2*BOARDER);}
+function drawDot(x,y,colour)
+{context.fillStyle=colour;context.beginPath();context.arc(x*BOXWIDTH+(BOXWIDTH/2),y*BOXWIDTH+(BOXWIDTH/2),BOXWIDTH*0.4,0,Math.PI*2,true);context.closePath();context.fill();}
+function hasPeg(x,y,c)
+{var p=c.getImageData(x*BOXWIDTH+BOXWIDTH/2,y*BOXWIDTH+BOXWIDTH/2,1,1).data;var hexPeg="#"+("000000"+rgbToHex(p[0],p[1],p[2])).slice(-6);if(hexPeg==PEG_COLOUR)
+return true;else
+return false;}
+function isSelected(x,y,c)
+{var pB=c.getImageData(x*BOXWIDTH+BOARDER,y*BOXWIDTH+BOARDER,1,1).data;var hexBorder="#"+("000000"+rgbToHex(pB[0],pB[1],pB[2])).slice(-6);if(hexBorder==SQUARE_SEL_COLOUR)
+return true;else
+return false;}
+var counterCount;function init()
+{if(document.getElementById('board1').checked==true){boardCanvas.width=9*BOXWIDTH;for(var i=0;i<3;i++)
+for(var j=0;j<3;j++){drawSquare(3+i,j,SQUARE_COLOUR);drawDot(3+i,j,PEG_COLOUR);}
+for(var i=0;i<9;i++)
+for(var j=0;j<3;j++){drawSquare(i,3+j,SQUARE_COLOUR);if(j!=1||i!=4)
+drawDot(i,3+j,PEG_COLOUR);}
+for(var i=0;i<3;i++)
+for(var j=0;j<3;j++){drawSquare(3+i,6+j,SQUARE_COLOUR);drawDot(3+i,6+j,PEG_COLOUR);}
+pegCount=44;}else if(document.getElementById('board2').checked==true){boardCanvas.width=7*BOXWIDTH;for(var i=0;i<3;i++)
+for(var j=0;j<2;j++){drawSquare(2+i,j,SQUARE_COLOUR);drawDot(2+i,j,PEG_COLOUR);}
+for(var i=0;i<7;i++)
+for(var j=0;j<3;j++){drawSquare(i,2+j,SQUARE_COLOUR);if(j!=1||i!=3)
+drawDot(i,2+j,PEG_COLOUR);}
+for(var i=0;i<3;i++)
+for(var j=0;j<2;j++){drawSquare(2+i,5+j,SQUARE_COLOUR);drawDot(2+i,5+j,PEG_COLOUR);}
+pegCount=32;}else if(document.getElementById('board3').checked==true){boardCanvas.width=8*BOXWIDTH;for(var i=0;i<3;i++)
+for(var j=0;j<3;j++){drawSquare(2+i,j,SQUARE_COLOUR);drawDot(2+i,j,PEG_COLOUR);}
+for(var i=0;i<9;i++)
+for(var j=0;j<3;j++){drawSquare(i,3+j,SQUARE_COLOUR);if(j!=1||i!=3)
+drawDot(i,3+j,PEG_COLOUR);}
+for(var i=0;i<3;i++)
+for(var j=0;j<2;j++){drawSquare(2+i,6+j,SQUARE_COLOUR);drawDot(2+i,6+j,PEG_COLOUR);}
+pegCount=38;}else if(document.getElementById('board4').checked==true){boardCanvas.width=7*BOXWIDTH;for(var i=0;i<3;i++){drawSquare(2+i,0,SQUARE_COLOUR);drawDot(2+i,0,PEG_COLOUR);}
+for(var i=0;i<5;i++){drawSquare(1+i,1,SQUARE_COLOUR);drawDot(1+i,1,PEG_COLOUR);}
+for(var i=0;i<7;i++)
+for(var j=0;j<3;j++){drawSquare(i,2+j,SQUARE_COLOUR);if(j!=0||i!=3)
+drawDot(i,2+j,PEG_COLOUR);}
+for(var i=0;i<5;i++){drawSquare(1+i,5,SQUARE_COLOUR);drawDot(1+i,5,PEG_COLOUR);}
+for(var i=0;i<3;i++){drawSquare(2+i,6,SQUARE_COLOUR);drawDot(2+i,6,PEG_COLOUR);}
+pegCount=36;}else if(document.getElementById('board5').checked==true){boardCanvas.width=9*BOXWIDTH;drawSquare(4,0,SQUARE_COLOUR);drawDot(4,0,PEG_COLOUR);for(var i=0;i<3;i++){drawSquare(3+i,1,SQUARE_COLOUR);drawDot(3+i,1,PEG_COLOUR);}
+for(var i=0;i<5;i++){drawSquare(2+i,2,SQUARE_COLOUR);drawDot(2+i,2,PEG_COLOUR);}
+for(var i=0;i<7;i++){drawSquare(1+i,3,SQUARE_COLOUR);drawDot(1+i,3,PEG_COLOUR);}
+for(var i=0;i<9;i++){drawSquare(0+i,4,SQUARE_COLOUR);if(i!=4)
+drawDot(0+i,4,PEG_COLOUR);}
+for(var i=0;i<7;i++){drawSquare(1+i,5,SQUARE_COLOUR);drawDot(1+i,5,PEG_COLOUR);}
+for(var i=0;i<5;i++){drawSquare(2+i,6,SQUARE_COLOUR);drawDot(2+i,6,PEG_COLOUR);}
+for(var i=0;i<3;i++){drawSquare(3+i,7,SQUARE_COLOUR);drawDot(3+i,7,PEG_COLOUR);}
+drawSquare(4,8,SQUARE_COLOUR);drawDot(4,8,PEG_COLOUR);pegCount=40;}}
+$("#boardCanvas").click(function(e){var pos=findPos(this);var c=this.getContext('2d');var x=e.pageX-pos.x;var y=e.pageY-pos.y;var coord="x="+x+", y="+y;var xStart=Math.floor((e.pageX-$("#boardCanvas").offset().left)/BOXWIDTH);var yStart=Math.floor((e.pageY-$("#boardCanvas").offset().top)/BOXWIDTH);var coord_rnd="x="+xStart+", y="+yStart;var p=c.getImageData(xStart*BOXWIDTH+BOXWIDTH/2,yStart*BOXWIDTH+BOXWIDTH/2,1,1).data;var pB=c.getImageData(xStart*BOXWIDTH+BOARDER,yStart*BOXWIDTH+BOARDER,1,1).data;var hexPeg="#"+("000000"+rgbToHex(p[0],p[1],p[2])).slice(-6);var hexBorder="#"+("000000"+rgbToHex(pB[0],pB[1],pB[2])).slice(-6);var peg;if(hexPeg==PEG_COLOUR){peg=true;}else{peg=false;}
+if(hexBorder==SQUARE_SEL_COLOUR){selectedX=-1;selectedY=-1;drawSquare(xStart,yStart,SQUARE_COLOUR);if(peg)
+drawDot(xStart,yStart,PEG_COLOUR);}else if(hexBorder==SQUARE_COLOUR){if(selectedX==-1&&selectedY==-1){var srcPeg=hasPeg(xStart,yStart,c);if(!srcPeg)
+return;selectedX=xStart;selectedY=yStart;drawSquare(xStart,yStart,SQUARE_SEL_COLOUR);if(peg)
+drawDot(xStart,yStart,PEG_COLOUR);}else{var xDiff=xStart-selectedX;var yDiff=yStart-selectedY;if(xDiff>2||xDiff<-2||yDiff>2||yDiff<-2)
+return;if(xDiff!=0&&yDiff!=0)
+return;var destPeg=hasPeg(xStart,yStart,c);if(!destPeg){var xOff=0;var yOff=0;if(xStart-selectedX>0)
+xOff=1;else if(xStart-selectedX<0)
+xOff=-1;else{xOff=0;if(yStart-selectedY>0)
+yOff=1;else if(yStart-selectedY<0)
+yOff=-1;else
+return;}
+var midPeg=hasPeg(selectedX+xOff,selectedY+yOff,c);if(!midPeg)
+return;drawSquare(selectedX+xOff,selectedY+yOff,SQUARE_COLOUR);drawDot(xStart,yStart,PEG_COLOUR);drawSquare(selectedX,selectedY,SQUARE_COLOUR);pegCount--;selectedX=-1;selectedY=-1;}}}
+if(pegCount==1){$('#win').html("YOU WIN!");}});</script></div><div class=post-copyright><p class=copyright-item><span class=item-title>Author</span>
+<span class=item-content>Canary</span></p><p class=copyright-item><span class=item-title>LastMod</span>
+<span class=item-content>October 28, 2019</span></p></div><footer class=post-footer><div class=post-tags><a href=/tags/peg-solitaire/>Peg Solitaire</a>
+<a href=/tags/javascript/>JavaScript</a></div><nav class=post-nav><a class=next href=/post/qr_code_generator/><span class="next-text nav-default">QR Code Generator</span>
+<span class="next-text nav-mobile">Next</span>
+<i class="iconfont icon-right"></i></a></nav></footer></article></div></div></main><footer id=footer class=footer><div class=social-links><a href=mailto:your@email.com class="iconfont icon-email" title=email></a><a href=https://etherdream.github.io/jsproxy/-----https://www.google.com/ class="iconfont icon-google" title=google></a><a href=https://github.com class="iconfont icon-github" title=github></a><a href=https://fromxt.github.io/index.xml type=application/rss+xml class="iconfont icon-rss" title=rss></a></div><div class=copyright><span class=power-by>Powered by <a class=hexo-link href=https://gohugo.io>Hugo</a></span>
+<span class=division>|</span>
+<span class=theme-info>Theme -
+<a class=theme-link href=https://github.com/olOwOlo/hugo-theme-even>Even</a></span><div class=busuanzi-footer><span id=busuanzi_container_site_pv>site pv: <span id=busuanzi_value_site_pv><img src=/img/spinner.svg alt=spinner.svg></span></span>
+<span class=division>|</span>
+<span id=busuanzi_container_site_uv>site uv: <span id=busuanzi_value_site_uv><img src=/img/spinner.svg alt=spinner.svg></span></span></div><span class=copyright-year>&copy;
+2018 -
+2019
+<span class=heart><i class="iconfont icon-heart"></i></span><span class=author>Canary</span></span></div></footer><div class=back-to-top id=back-to-top><i class="iconfont icon-up"></i></div></div><script src=https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin=anonymous></script><script src=https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin=anonymous></script><script src=https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin=anonymous></script><script type=text/javascript src=/dist/even.26188efa.min.js></script></body></html>
