@@ -44,7 +44,8 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Metafilter](https://www.metafilter.com) - A general-interest community weblog
 - [Facebook](https://mbasic.facebook.com) - Basic mode of Facebook
 - [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
-- [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
+- [Hacker News<sup>1</sup>](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
+- [Hacker News<sup>2</sup>](https://hn.svelte.dev/top/1) - This is a simple Hacker News clone, built with Sapper, an application framework for Svelte.
 - [Reddit](https://old.reddit.com/) - Reddit .compact view
 - [Twitter](https://mobile.twitter.com) - A faster, data friendly way to use Twitter
 - [Medium](https://medium.com/) - A place to read and write big ideas and important stories
