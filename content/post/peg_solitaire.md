@@ -15,4 +15,5 @@ tags:
 
 # How to play?
 
-Select one kind of five patterns below and click **Restart** button, then, select a peg,click once and drag it , jumping over another single peg  to a empty hole (white box).Click [here](./peg.html) to play the game.
+Select a peg,click and drag it , jumping over another single peg  to a empty hole (white box).
+Click [here](./peg.html) to play the game.
