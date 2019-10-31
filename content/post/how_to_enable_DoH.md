@@ -9,7 +9,7 @@ tags:
   - "DoH"
 ---
 
-![05_01.png](https://2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com/files/2018/05/05_01.png)
+![05_01.png](https://blog-cloudflare-com-assets.storage.googleapis.com/2019/10/DoT-DoH@2x.png)
 
 <!--more-->
 
@@ -24,7 +24,7 @@ On the other hand, enabling DoH in Chrome isn't as easy, as Google is currently 
 
 ## Enabling and disabling DNS-over-HTTPS in Chrome
 
-To enable DoH support in Chrome, users would have to use a so-called command-line argument (or command-line flag), which is a set of additional instructions that are passed to the Chrome executable at start-up, to enable in-dev features.
+To enable DoH support in Chrome, users would have to use a so-called command-line argument (or command-line flag), which is a set of additional instructions that are passed to the Chrome executable at start-up, to enable in-dev features.Chrome 78 enables opportunistic DoH if the system resolver address matches one of the hard-coded DoH providers (source code change). This experiment is enabled for all platforms except Linux and iOS, and excludes enterprise deployments by default.
 
 1. Find your Chrome shortcut. This may be on your taskbar, desktop, start menu, or somewhere else on your file system.
 
@@ -33,7 +33,7 @@ To enable DoH support in Chrome, users would have to use a so-called command-lin
 
 3. In the Target field, add the following text at the end of the shortcut path and hit Save.[Source](https://bugs.chromium.org/p/chromium/issues/detail?id=799753#c8)
 
-     ---enable-features="dns-over-https<DoHTrial" --force-fieldtrials="DoHTrial/Group1" --force-fieldtrial-params="DoHTrial.Group1:server/https%3A%2F%2F1.1.1.1%2Fdns-query/method/POST
+>_--enable-features="dns-over-https<DoHTrial" --force-fieldtrials="DoHTrial/Group1" --force-fieldtrial-params="DoHTrial.Group1:server/https%3A%2F%2F1.1.1.1%2Fdns-query/method/POST_
 
 The above text will configure Chrome to use the Cloudflare DoH server. Users can select any other DoH server from this list.
 
@@ -45,6 +45,7 @@ The above text will configure Chrome to use the Cloudflare DoH server. Users can
 
 ![chrome-doh-ok.png](https://zdnet2.cbsistatic.com/hub/i/2019/09/08/644950c8-50ec-44b6-8905-a4924c0d5a8a/ac21bfbdb1a0c2b446465191548bd5a5/chrome-doh-ok.png)
 
+>Note:Chrome 78 enables opportunistic DoH if the system resolver address matches one of the hard-coded [DoH providers](https://www.chromium.org/developers/dns-over-https) ([source code change](https://chromium.googlesource.com/chromium/src.git/+/f93a48e3720931c25a3abc7848b08afed43e3be2%5E%21/)). This experiment is enabled for all platforms except Linux and iOS, and excludes enterprise deployments by default.
 
 ## Enabling and disabling DNS-over-HTTPS in Firefox
 
@@ -70,5 +71,6 @@ The above text will configure Chrome to use the Cloudflare DoH server. Users can
 
 3. *https://support.mozilla.org/en-US/kb/firefox-dns-over-https*
 
+4. *https://blog.cloudflare.com/dns-encryption-explained/*
 
 
