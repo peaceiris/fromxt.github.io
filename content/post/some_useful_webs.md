@@ -71,20 +71,20 @@ Here are the most useful websites on the Internet that will make you smarter, in
 
 1. [Socew](http://www.socew.cn/) - Free MP3 Music Downloads Site
 2. [Wallpaperscraft](https://wallpaperscraft.com) - Download all background images for free,supporting all sorts of resolution 
-9. [Openload](https://openload.co) - Give any user the opportunity to share any file(such as video)completly free !
-21. [glyptodon.com](https://demo.glyptodon.com) -  Free 20 minutes Windows 10 Server 2016 trial
-25. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets, and video relating to  Donald Trump.
-30. [Google-alternatives](https://restoreprivacy.com/google-alternatives/) - A list of alternatives to all Google products
+3. [Openload](https://openload.co) - Give any user the opportunity to share any file(such as video)completly free !
+4. [glyptodon.com](https://demo.glyptodon.com) -  Free 20 minutes Windows 10 Server 2016 trial
+5. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets, and video relating to  Donald Trump.
+6. [Google-alternatives](https://restoreprivacy.com/google-alternatives/) - A list of alternatives to all Google products
 31. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
-32. [PHP Proxy](https://vu.qnid.cc/) - A web sites powered by PHP-Proxy 5.1.0. - https://52proxy.fun/ - https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://17yo.club/ - https://proxy.emildeveloping.com/
-35. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
-36. [Google](https://node-aliyun-hk-1.etherdream.com:8443-----https://www.google.com) - google.com.hk  - ~~https://zjcqoo.github.io/~~ - https://gamedun.github.io
-39. [CFproxy](https://go.goso.workers.dev/) - Build jsproxy on Cloudflare Worker.
-40. [JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - hk proxy
-44. [D.tube](https://d.tube/) -A community powered video sharing platform 
-46. [Glorp](https://glorp.co/) - Visual search engine
-47. [Rg-adguard](https://tb.rg-adguard.net/public.php) - Microsoft Windows ISO Download Tool 
-49. [Imgbb.com](https://imgbb.com/) - Upload and share your images.
-51. [Windows utilities](Curated list of Windows utilities) - Curated list of Windows utilities
+8. [PHP Proxy](https://vu.qnid.cc/) - A web sites powered by PHP-Proxy 5.1.0. - https://52proxy.fun/ - https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://17yo.club/ - https://proxy.emildeveloping.com/
+9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
+10. [Google](https://node-aliyun-hk-1.etherdream.com:8443-----https://www.google.com) - google.com.hk  - ~~https://zjcqoo.github.io/~~ - https://gamedun.github.io
+11. [CFproxy](https://go.goso.workers.dev/) - Build jsproxy on Cloudflare Worker.
+12. [JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - hk proxy
+13. [D.tube](https://d.tube/) -A community powered video sharing platform 
+14. [Glorp](https://glorp.co/) - Visual search engine
+15. [Rg-adguard](https://tb.rg-adguard.net/public.php) - Microsoft Windows ISO Download Tool 
+16. [Imgbb.com](https://imgbb.com/) - Upload and share your images.
+17. [Windows utilities](https://orga.cat/posts/windows-utilities) - Curated list of Windows utilities
 
 
