@@ -85,6 +85,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 14. [Glorp](https://glorp.co/) - Visual search engine
 15. [Rg-adguard](https://tb.rg-adguard.net/public.php) - Microsoft Windows ISO Download Tool 
 16. [Imgbb.com](https://imgbb.com/) - Upload and share your images.
-17. [Windows utilities](https://orga.cat/posts/windows-utilities) - Curated list of Windows utilities
+17. [Windows utilities](https://orga.cat/posts/windows-utilities) - Curated list of Windows utilities.
+18. [Seeres.com](https://seeres.com/) -  Private search.
 
 
