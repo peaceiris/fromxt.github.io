@@ -16,6 +16,24 @@ But I think that it is a dumb change. No part of a domain should be considered â
 
 Users who want to reenable the full display of subdomains can do so by changing a flag setting at <font color=#0000FF >chrome://flags/#omnibox-ui-hide-steady-state-url-scheme-and-subdomains</font>.Clicking in the URL bar to edit the address also shows the full string. 
 
+Update:
+
+In Chrome 78 flag `chrome://flags/#omnibox-ui-hide-steady-state-url-scheme-and-subdomains` has been deleted,so you can follow the workaround:
+
+1. Open `chrome://flags` 
+
+2. F12 and input the code to console.
+
+```
+[
+'omnibox-ui-hide-steady-state-url-path-query-and-ref',
+'omnibox-ui-hide-steady-state-url-scheme',
+'omnibox-ui-hide-steady-state-url-trivial-subdomains'
+].forEach(function(f) {
+chrome.send('enableExperimentalFeature', [f + '@2', 'true']);
+})
+```
+
 
 Reference:
 
