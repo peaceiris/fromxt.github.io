@@ -13,12 +13,12 @@ I just installed Ubuntu on my old laptop, and everything seems to work well, exc
 
 To avoid delay you can use workaround. From terminal run:
 
-1. 'sudo gredit /etc/default/grub'
-Then add the kernel boot parameter: 'video=SVIDEO-1:d', so it will look like this: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash video=SVIDEO-1:d"
+1. `sudo gredit /etc/default/grub`
+Then add the kernel boot parameter: **`video=SVIDEO-1:d`**, so it will look like this: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash video=SVIDEO-1:d"
 
-2. sudo update-grub
+2. `sudo update-grub`
 
-3. sudo reboot
+3. `sudo reboot`
 
 
 But I found this entry (https://bugs.archlinux.org/task/51703) with this comment:
