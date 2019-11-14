@@ -26,3 +26,13 @@ This is a highly digestible math book and the focus is on a formal approach of a
 # [The Art of Computer Programming (TAOCP)](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
 
 This is the Bible of programming that should be on every programmer's bookshelf. They look beautiful in the boxed set with high quality covers as well as pages. Bill Gates once said about these books: "If somebody is so brash that they think they know everything, Knuth will help them understand that the world is deep and complicated." I think that they are great for reference. Now that I am no longer in an academic setting, I think that I can enjoy expanding my knowledge base slowly moving through this content. For any programmer looking to enhance their knowledge base, this is the perfect book set to invest in.
+
+By the way, list some the best free / online courses to gain a further understanding of CS theory and other closely related theory.
+
+* Foundations of Computer Science - http://infolab.stanford.edu/~ullman/focs.html
+* Specifying Software: A Hands-On Introduction - https://www.amazon.com/Specifying-Software-Hands-Introductio... The name is a misnomer. See the ToC. This is actually a practical introduction to CS theory.
+* Teach Yourself Computer Science - https://teachyourselfcs.com/
+* Problem Solving with Algorithms and Data Structures using Python - https://runestone.academy/runestone/books/published/pythonds/index.html
+* Types and Programming Languages - https://www.cis.upenn.edu/~bcpierce/tapl/
+* The TLA+ Video Course - http://lamport.azurewebsites.net/video/videos.html
+* How to Design Programs - https://www.htdp.org/
