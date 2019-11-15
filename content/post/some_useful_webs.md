@@ -88,4 +88,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 17. [Windows utilities](https://orga.cat/posts/windows-utilities) - Curated list of Windows utilities.
 18. [Seeres.com](https://seeres.com/) -  Private search.
 19. [ArXiv](https://arxiv.org/) - An open archive for scholarly articles in the fields of physics, mathematics, computer science.
-
+20. [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
