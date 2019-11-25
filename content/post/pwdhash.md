@@ -76,6 +76,9 @@ Contributors: [Blake Ross](http://www.blakeross.com/),[Collin Jackson](http://ww
 Another simple way to generate strong passwords is derived from xkcd: Password Strength.
 <center>![Password Strength](https://imgs.xkcd.com/comics/password_strength.png)</center> 
 
+Diceware is another passphrase generator following the proposals of Arnold G. Reinhold on http://diceware.com . It generates passphrases by concatenating words randomly picked from wordlists. 
+
+
 Randall Munroe did offer us a solution: a Correct Horse Battery Staple. By memorizing a long phrase, a greater number of bits are more easily encoded in a user’s memory, making a password much harder to crack. ‘Correct Horse Battery Staple’ only provides a 44-bit password, though, and researchers at the University of Southern California have a better solution: prose and poetry. Just imagine what a man from Nantucket will do to a battery staple.
 
 Correct Horse Battery Staple, Generate Secure Memorable Passwords. A secure password will help keep you safer online.
