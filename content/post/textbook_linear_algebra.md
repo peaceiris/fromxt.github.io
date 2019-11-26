@@ -12,13 +12,13 @@ Linear Algebra is not what it seems at first thought. Behind all the matrices, p
 
 <!--more-->
 
-1. **Immersive linear algebra** - http://immersivemath.com/ila/index.html  
+- Immersive linear algebra - http://immersivemath.com/ila/index.html  
 
    Immersive Math was developed over the span of three years by a three-man team with academic backgrounds in mathematics, computer graphics, and image coding.  The team, who worked on the project on a sporadic basis, used HTML5, JavaScript, and MathJax, an open-source library used to display mathematical notations. 
 
-2. Interactive Linear Algebra - https://textbooks.math.gatech.edu/ila/
+- Interactive Linear Algebra - https://textbooks.math.gatech.edu/ila/
 
-3. Hefferon's Linear Algebra - http://joshua.smcvt.edu/linearalgebra/
+- Hefferon's Linear Algebra - http://joshua.smcvt.edu/linearalgebra/
 
 ---
 
