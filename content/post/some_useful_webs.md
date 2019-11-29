@@ -80,8 +80,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 8. [PHP Proxy](https://vu.qnid.cc/) - A web sites powered by PHP-Proxy 5.1.0. - https://52proxy.fun/ - https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://17yo.club/ - https://proxy.emildeveloping.com/
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google](https://node-aliyun-hk-1.etherdream.com:8443-----https://www.google.com) - google.com.hk  - ~~https://zjcqoo.github.io/~~ - https://gamedun.github.io
-11. [CFproxy](https://go.goso.workers.dev/) - Build jsproxy on Cloudflare Worker.
-12. [JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - hk proxy
+11. ~~[CFproxy](https://go.goso.workers.dev/) - Build jsproxy on Cloudflare Worker.~~
+12. ~~[JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - hk proxy~~
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
 14. [Glorp](https://glorp.co/) - Visual search engine
 15. [Rg-adguard](https://tb.rg-adguard.net/public.php) - Microsoft Windows ISO Download Tool 
@@ -91,3 +91,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 19. [ArXiv](https://arxiv.org/) - An open archive for scholarly articles in the fields of physics, mathematics, computer science.
 20. [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 21. [Podder](https://podder.app)- Podder is a simple podcast player for both desktop and phones.
+22. [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - An Overview of Cryptography
