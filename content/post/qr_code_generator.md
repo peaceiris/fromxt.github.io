@@ -77,7 +77,7 @@ I just use [qrious.js](https://github.com/neocotic/qrious) to implement a simple
         var qr = window.qr = new QRious({
             element: document.getElementById('qrious'),
             size: 250,
-            value: 'Hi~'
+            value: 'QRious'
         })
         $background.addEventListener('change', function () {
             qr.background = $background.value || null
