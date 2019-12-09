@@ -32,5 +32,6 @@ Hollie Raynor, PhD, RD, LDN, who was not associated with the research, said "thi
 Peterson and colleagues said prior research was conflicted on whether meal timing strategies help with weight loss by helping people burn more calories or by lowering appetite. Studies in rodents suggest such strategies burn more calories, but data from human studies were conflicting -- some studies suggested meal timing strategies increase calories burned, but other reports showed no difference. The study's authors said, however, that previous studies did not directly measure how many calories people burned or were imperfect in other ways.
 
 Journal Reference:
+- Eat For 10 Hours. Fast For 14. This Daily Habit Prompts Weight Loss, Study Finds https://www.npr.org/sections/thesalt/2019/12/08/785142534/eat-for-10-hours-fast-for-14-this-daily-habit-prompts-weight-loss-study-finds
 
-Eric Ravussin, Robbie A. Beyl, Eleonora Poggiogalle, Daniel S. Hsia, Courtney M. Peterson. Early Time‐Restricted Feeding Reduces Appetite and Increases Fat Oxidation But Does Not Affect Energy Expenditure in Humans. Obesity, 2019; 27 (8): 1244 DOI: 10.1002/oby.22518
+- Eric Ravussin, Robbie A. Beyl, Eleonora Poggiogalle, Daniel S. Hsia, Courtney M. Peterson. Early Time‐Restricted Feeding Reduces Appetite and Increases Fat Oxidation But Does Not Affect Energy Expenditure in Humans. Obesity, 2019; 27 (8): 1244 DOI: 10.1002/oby.22518
