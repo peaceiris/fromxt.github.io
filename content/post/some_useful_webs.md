@@ -52,6 +52,10 @@ Here are the most useful websites on the Internet that will make you smarter, in
 3.[Codingground](https://www.tutorialspoint.com/codingground.htm) - Coding Platform For Your Website.
 4. [Repl](https://repl.it/repls) - The world's leading online coding platform.
 
+## Learning
+1.[An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) -  An Overview of Cryptography.
+2.[	Introduction to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Brian Holt's course. the accompanying videos https://frontendmasters.com/courses/web-development-v2/.
+
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
 2. [Tresorit Send](https://send.tresorit.com/) - Send files easily with end-to-end encryption.
@@ -92,4 +96,3 @@ Here are the most useful websites on the Internet that will make you smarter, in
 19. [ArXiv](https://arxiv.org/) - An open archive for scholarly articles in the fields of physics, mathematics, computer science.
 20. [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 21. [Podder](https://podder.app)- Podder is a simple podcast player for both desktop and phones.
-22. [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - An Overview of Cryptography
