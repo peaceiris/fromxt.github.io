@@ -53,8 +53,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 4. [Repl](https://repl.it/repls) - The world's leading online coding platform.
 
 ## Learning
-1.[An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) -  An Overview of Cryptography.
-2.[	Introduction to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Brian Holt's course. the accompanying videos https://frontendmasters.com/courses/web-development-v2/.
+1. [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) -  An Overview of Cryptography.
+2. [	Introduction to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Brian Holt's course. the accompanying videos https://frontendmasters.com/courses/web-development-v2/.
 
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
