@@ -72,6 +72,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 13. [ComparePDF](https://www.parepdf.com/) - Compare pdfs quickly and easily
 14. [Removebackground](https://www.remove.bg/) - This free online tool uses AI to quickly remove the background from images. 
 15. [Framapic](https://framapic.org/) - Privacy-friendly libre photo sharing service, run by French privacy campaigners Framasoft.
+16. [Free for dev](https://github.com/ripienaar/free-for-dev) - Requirement for tools on that list is having some kind of free plan
 
 ## Others
 
