@@ -54,7 +54,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 
 ## Learning
 1. [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) -  An Overview of Cryptography.
-2. [	Introduction to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Brian Holt's course. the accompanying videos https://frontendmasters.com/courses/web-development-v2/.
+2. [Introduction to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Brian Holt's course. the accompanying videos https://frontendmasters.com/courses/web-development-v2/.
+3. [Basics of Compiler Design](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) - Basics of Compiler Design
 
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
