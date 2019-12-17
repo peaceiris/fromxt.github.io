@@ -29,6 +29,7 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Legible News](https://legiblenews.com/) - Legible news
 - [Text News](https://txtn.ws/) - All of the news, none of the markup. Text only, Gopher only.
 - [Text-only News](https://textnews.pythonanywhere.com/english) - News aggregator.
+- [F6O’Clock ](https://www.f6oclock.com/) - or the original [F5O’Clock](http://www.f5oclock.com/articles)
 - [Jimmyr](http://www.jimmyr.com/) - A mashup of the best sites on the internet integrated into one page.
 - [Newshound](https://www.newshound.co/editions/en-us/) - Daily news from around the world.
 - [Zaqs](https://www.zaqs.org/home.html) - A customizable news aggregator website and search engine.
