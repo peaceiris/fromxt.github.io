@@ -26,6 +26,7 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [CNN Lite](http://lite.cnn.io/en) - A lite version of CNN.com
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [Wbur](https://www.wbur.org) - Boston’s NPR News Station
+- [Legible News](https://legiblenews.com/) - Legible news
 - [Text News](https://txtn.ws/) - All of the news, none of the markup. Text only, Gopher only
 - [Newshound](https://www.newshound.co/editions/en-us/) - Daily news from around the world
 - [Zaqs](https://www.zaqs.org/home.html) - A customizable news aggregator website and search engine. We currently index over 100 mainstream news websites.
