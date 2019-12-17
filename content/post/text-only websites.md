@@ -38,6 +38,7 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Reuters](https://www.reuters.com/commentary) - A lite version of reuters.com with a toggle button to switch of photos
 - [Techdirt Lite](https://www.techdirt.com/?_format=lite) - Text-only version of techdirt.com
 - [The Christian Science Monitor](https://www.csmonitor.com/layout/set/text/textedition) -  Text-Only Edition.Beautifully formated for reading; no images at all.
+- [Allsides](https://www.allsides.com/) - unbiased balanced news
 - [Tophub.today](https://tophub.today/) - Chinese news aggregator
 - [Duomoyu](https://duomoyu.com) - Chinese news aggregator
 
