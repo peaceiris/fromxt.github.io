@@ -25,11 +25,13 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 
 - [CNN Lite](http://lite.cnn.io/en) - A lite version of CNN.com
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
-- [Wbur](https://www.wbur.org) - Boston’s NPR News Station
+- [POST Online Media](https://lite.poandpo.com/) - Breaking world news, latest headlines and stories from POST Online Media.
 - [Legible News](https://legiblenews.com/) - Legible news
-- [Text News](https://txtn.ws/) - All of the news, none of the markup. Text only, Gopher only
-- [Newshound](https://www.newshound.co/editions/en-us/) - Daily news from around the world
-- [Zaqs](https://www.zaqs.org/home.html) - A customizable news aggregator website and search engine. We currently index over 100 mainstream news websites.
+- [Text News](https://txtn.ws/) - All of the news, none of the markup. Text only, Gopher only.
+- [Text-only News](https://textnews.pythonanywhere.com/english) - News aggregator.
+- [Jimmyr](http://www.jimmyr.com/) - A mashup of the best sites on the internet integrated into one page.
+- [Newshound](https://www.newshound.co/editions/en-us/) - Daily news from around the world.
+- [Zaqs](https://www.zaqs.org/home.html) - A customizable news aggregator website and search engine.
 - [Tildes](https://tildes.net/) -  A non-profit community site driven by its users' interests 
 - [FinURLs](https://finurls.com/) -World's simplest finance and business news aggregator
 - [Readspike](https://readspike.com/) - A news aggregator
@@ -43,6 +45,7 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Allsides](https://www.allsides.com/) - unbiased balanced news
 - [Tophub.today](https://tophub.today/) - Chinese news aggregator
 - [Duomoyu](https://duomoyu.com) - Chinese news aggregator
+- [Wbur](https://www.wbur.org) - Boston’s NPR News Station
 
 
 ## Social
