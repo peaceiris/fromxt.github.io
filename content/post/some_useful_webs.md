@@ -89,7 +89,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google](https://node-aliyun-hk-1.etherdream.com:8443-----https://www.google.com) - google.com.hk  - ~~https://zjcqoo.github.io/~~ - https://way.cachefiles.net/
 11. ~~[CFproxy](https://gg.smiling.workers.dev/) - Build jsproxy on Cloudflare Worker.~~
-12. ~~[JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - hk proxy~~
+12. ~~[JSproxy](https://www.1688998.xyz:8443) - hk proxy~~
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
 14. [Glorp](https://glorp.co/) - Visual search engine
 15. [Rg-adguard](https://tb.rg-adguard.net/public.php) - Microsoft Windows ISO Download Tool 
