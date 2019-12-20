@@ -88,7 +88,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 8. [PHP Proxy](https://vu.qnid.cc/) - A web sites powered by PHP-Proxy 5.1.0. - https://52proxy.fun/ - https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://17yo.club/ - https://proxy.emildeveloping.com/
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google](https://node-aliyun-hk-1.etherdream.com:8443-----https://www.google.com) - google.com.hk  - ~~https://zjcqoo.github.io/~~ - https://way.cachefiles.net/
-11. ~~[CFproxy](https://go.goso.workers.dev/) - Build jsproxy on Cloudflare Worker.~~
+11. ~~[CFproxy](https://gg.smiling.workers.dev/) - Build jsproxy on Cloudflare Worker.~~
 12. ~~[JSproxy](https://node-aliyun-hk-1.etherdream.com:8443/) - hk proxy~~
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
 14. [Glorp](https://glorp.co/) - Visual search engine
