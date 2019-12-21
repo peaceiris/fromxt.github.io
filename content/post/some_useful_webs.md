@@ -57,6 +57,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 2. [Introduction to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Brian Holt's course. the accompanying videos https://frontendmasters.com/courses/web-development-v2/.
 3. [Basics of Compiler Design](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) - Basics of Compiler Design
 4. [ManyThings](http://www.manythings.org/) - Interesting Things for ESL(English as a Second Language) Students.
+5. [New to SDR](https://luaradio.io/new-to-sdr.html) - Introduction to SDR.
 
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
