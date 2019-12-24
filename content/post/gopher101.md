@@ -24,12 +24,13 @@ Slides from a 1992 Internet Gopher presentation explaining the protocol:
 
 According to the RFC, gopher was designed as a client-server protocol running over TCP/IP. Much lighter than HTTP and HTML, gopher provided essentially two options: menus and documents, both of which were accessed through port 70. The system was initially text-based, though basic image serving ability came later. There was no decorative markup for menu pages, which all looked basically (and boringly) the same; on the other hand, gopher was quick and consistent.
 
-The Floodgap Systems master gopher contains many help files to assist you.https://gopher.floodgap.com/gopher/gw?
+The Floodgap Systems master gopher contains many help files to assist you.https://gopher.floodgap.com/gopher/gw
 
-This is a good overview site: https://gopher.zone/ - but is more targeted in publishing on gopher.
+There's a good overview site: https://gopher.zone/ - but is more targeted in publishing on gopher.
 
 Just gopher clients are listed on https://txtn.ws and there on the page are three articles linked on why gopher is relevant.
 
+# Reference
 
 1. https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol/
 
