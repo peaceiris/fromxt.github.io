@@ -10,9 +10,11 @@ tags:
 
 >gopher n. 1. Any of various short tailed, burrowing mammals of the family Geomyidae, of North America. 2. (Amer. colloq.) Native or inhabitant of Minnesota: the Gopher State. 3. (Amer. colloq.) One who runs errands, does odd-jobs, fetches or delivers documents for office staff. 4. (computer tech.) software following a simple protocol for burrowing through a TCP/IP internet.
 
+Gopher is a protocol for fetching information that dates back to 1993. It's often regarded as a predecessor of sorts to the HTTP protocol that serves as the backbone of the Web as we know it today, however its simplicity and structure gives it a lot of worth.
+<!--more-->
 Gopher might not be popular, and apparently it's relevancy is disputed. But it is still an interesting bit of internet-history. It still has an active community, and a whole lot of information.
 There's also a slow movement to add gopherholes to the tor network.
-<!--more-->
+
 Minnesota is not a proud place—how else to explain the fact that it voluntarily bills itself the "Gopher State" and has as its main university mascot an appallingly bucktoothed rodent known as a "golden gopher"?
 
 So it was no surprise that when University of Minnesota researchers developed an early protocol for organizing and sharing documents over the Internet, they named it "gopher." The initial version of the protocol appeared in 1991; by 1993, it had been codified as a Request for Comment [RFC 1436](https://tools.ietf.org/html/rfc1436) that laid out the protocol in some detail.
