@@ -20,7 +20,7 @@ Minnesota is not a proud place—how else to explain the fact that it voluntaril
 So it was no surprise that when University of Minnesota researchers developed an early protocol for organizing and sharing documents over the Internet, they named it "gopher." The initial version of the protocol appeared in 1991; by 1993, it had been codified as a Request for Comment [RFC 1436](https://tools.ietf.org/html/rfc1436) that laid out the protocol in some detail.
 
 Slides from a 1992 Internet Gopher presentation explaining the protocol:
-![Gopher](https://framapic.org/o12zyN9SOwks/hfbefd1NAE5p.png)
+![Gopher](https://f000.backblazeb2.com/file/canicula/ImgURL/gopher.png)
 
 According to the RFC, gopher was designed as a client-server protocol running over TCP/IP. Much lighter than HTTP and HTML, gopher provided essentially two options: menus and documents, both of which were accessed through port 70. The system was initially text-based, though basic image serving ability came later. There was no decorative markup for menu pages, which all looked basically (and boringly) the same; on the other hand, gopher was quick and consistent.
 
