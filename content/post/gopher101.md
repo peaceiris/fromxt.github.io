@@ -26,5 +26,5 @@ According to the RFC, gopher was designed as a client-server protocol running ov
 This is a good overview site: https://gopher.zone/ - but is more targeted in publishing on gopher.Just gopher clients are listed on https://txtn.ws and there on the page are three articles linked on why gopher is relevant.
 
 
-
-
+1. https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol/
+2.https://dev.to/dotcomboom/the-gopher-protocol-in-brief-1d88
