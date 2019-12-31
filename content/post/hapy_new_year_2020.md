@@ -8,8 +8,6 @@ categories:
 
 ![avatar](https://f000.backblazeb2.com/file/canicula/ImgURL/2020-HNY2.jpg)
 <!--more-->
-<center>Wishing you Happy New Year 2020!</centre>
-
 <style>
 		html {
 			font-size: calc(87.5% + ((100vw - 320px) / 100));
