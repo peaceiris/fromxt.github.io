@@ -8,7 +8,7 @@ categories:
 
 ![avatar](https://f000.backblazeb2.com/file/canicula/ImgURL/2020-HNY2.jpg)
 <!--more-->
-Wishing you Happy New Year 2020
+<center>Wishing you Happy New Year 2020!</centre>
 
 <style>
 		html {
