@@ -94,10 +94,9 @@ categories:
 		}
 	</style>
 
-
 <div class="calendar-container">
 		<div class="calendar-container-child">
-			<h1>One page calendar <u>2020</u></h1>
+			<h1>Wishing you Happy New Year <u>2020</u>!</h1>
 			<table class="calendar">
 				<thead>
 					<tr>
