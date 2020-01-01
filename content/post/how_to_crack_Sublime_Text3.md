@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Crack Sublime Text 3 with Hex Editor (without license)"
 date: 2019-12-31T00:00:00+08:00
 
@@ -7,8 +7,7 @@ categories:
 ---
 Sublime Text is a super fast, feature-rich and versatile text and code editor with an extraordinary features, and amazing performance. I often use it for work,  but have to purchase license. Today, I'll share a 100% workable method to avoid register.
 <!--more-->
-Step:
-
+# Step:
 1. Download & Install Sublime Text 3.2.2 Build 3211
 2. Visit https://hexed.it/
 3. Open file `ublime_text.exe`
@@ -20,9 +19,7 @@ Step:
 9. Backup sublime_text.exe file (just rename)
 10. Copy sublime_text.exe modified to directory Sublime Text 3
 
-
-Easy edit Hex with Powershell
-
+# Easy edit Hex with Powershell
 1. Open Powershell as Admin
 2. Enter this Line:
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/nferrell/PSToolbelt/master/Public/Edit-FileHex.ps1")
