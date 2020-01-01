@@ -1,5 +1,5 @@
 ---
-title: "How to Crack Sublime Text 3 with Hex Editor (without license)"
+title: "How to Crack Sublime Text 3.* with Hex Editor"
 date: 2019-12-31T00:00:00+08:00
 
 categories:
