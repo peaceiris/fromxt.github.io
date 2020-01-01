@@ -1,19 +1,15 @@
-﻿---
+---
 title: "HAPPY NEW YEAR 2020!"
 date: 2020-01-01T00:00:00+08:00
 
 categories:
   - "Miscellaneous"
 ---
-
+May your dreams and wishes come true! May success and prosperity touch your own feet. Wishing you a very Happy New Year 2020.
 ![avatar](https://f000.backblazeb2.com/file/canicula/ImgURL/2020-HNY2.jpg)
 <!--more-->
 <style>
-		html {
-			font-size: calc(87.5% + ((100vw - 320px) / 100));
-		}
-
-		body {
+	body {
 			margin: 0;
 			font-size: 1rem;
 			font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
