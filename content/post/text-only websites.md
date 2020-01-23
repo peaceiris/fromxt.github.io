@@ -70,10 +70,12 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Outline](https://www.outline.com/) - A free service that removes clutter from websites.
 - [Seeres](https://seeres.com) - A Private Search.Engine by Google.
 - [Littlepotato](https://search.littlepotato.life/) - A reverser proxy for Google.
+- [Google mirror ](https://www.littlepotato.life/mirror/) - A reverser proxy for Google.
 - [Cliqz](https://beta.cliqz.com/) - It’s built end-to-end from collecting, crawling, and analyzing data up to actually showing results all this with privacy by design.
 - [DevURLs](https://devurls.com/) - Read programming news from the most popular programming websites in one place.
 - [Wiby.me](https://wiby.me/) -A search engine for 'classic websites',which's simple and meets the criteria (not a lot js/css)
-Edit: 2019-09-09
+
+
 
 ## License
 
