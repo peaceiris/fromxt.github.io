@@ -93,7 +93,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
 8. [PHP Proxy](https://vu.qnid.cc/) - A web sites powered by PHP-Proxy 5.1.0. - https://52proxy.fun/ - https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
-10. [Google](https://twothreewang.github.io/proxy/-----https://www.google.com) - google.com.hk  - ~~https://zjcqoo.github.io/~~ - https://way.cachefiles.net/
+10. [Google](https://twothreewang.github.io/proxy/-----https://www.google.com) - google.com.hk  - ~~https://zjcqoo.github.io/~~ - ~~https://way.cachefiles.net/~~
 11. ~~[CFproxy](https://gg.smiling.workers.dev/) - Build jsproxy on Cloudflare Worker.~~
 12. ~~[JSproxy](https://www.1688998.xyz:8443) - hk proxy~~
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
