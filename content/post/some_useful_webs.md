@@ -61,7 +61,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 5. [New to SDR](https://luaradio.io/new-to-sdr.html) - Introduction to SDR.
 6. [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, based on the NumPy interface.
 7. [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again.
-8. [Reverse engineering course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering course by Z0F. Focuses on x64 Windows..
+8. [Reverse engineering course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering course by Z0F. Focuses on x64 Windows.
+
 
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
@@ -81,6 +82,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 15. [Framapic](https://framapic.org/) - Privacy-friendly libre photo sharing service, run by French privacy campaigners Framasoft.
 16. [Free for dev](https://github.com/ripienaar/free-for-dev) - Requirement for tools on that list is having some kind of free plan
 17. [Pastemagic](https://pastemagic.com/) - Convert clipboard text to paste into your word processor just the way you want.
+18. [Regex Cheatsheet](https://ihateregex.io/) - Regex Cheatsheet
 
 ## Others
 
