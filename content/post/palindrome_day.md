@@ -13,6 +13,12 @@ Today is a most-glorious, super rare palindrome day.What makes this palindrome d
 <!--more-->
 So, this should probably be called "Universal Palindrome Day" because it is a palindrome irrespective of the endianness (big, little, or middle) that is used in various countries.
 
+|Endianness | Format | Date |
+| ------ | ------ | ------ |
+| Big-endian | YYYYMMDD | 20200202 |		
+| Little-endian | DDMMYYYY | 02022020 |	
+| Middle-endian | MMDDYYYY | 02022020 |
+
 Here is the list of all such dates until the year 9999:
 
  - 0101-10-10
