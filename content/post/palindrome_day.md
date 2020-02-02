@@ -15,17 +15,28 @@ So, this should probably be called "Universal Palindrome Day" because it is a pa
 
 Here is the list of all such dates until the year 9999:
 
-  0101-10-10
-  1010-01-01
-  1111-11-11
-  2020-02-02
-  2121-12-12
-  3030-03-03
-  4040-04-04
-  5050-05-05
-  6060-06-06
-  7070-07-07
-  8080-08-08
-  9090-09-09
+ - 0101-10-10
+
+ - 1010-01-01
+ 
+ - 1111-11-11
+ 
+ - 2020-02-02
+ 
+ - 2121-12-12
+ 
+ - 3030-03-03
+ 
+ - 4040-04-04
+ 
+ - 5050-05-05
+ 
+ - 6060-06-06
+ 
+ - 7070-07-07
+ 
+ - 8080-08-08
+ 
+ - 9090-09-09
 
 The Human Palindrome will be born today and die on 2121-12-12 at the age of 101. And in true palindromic fashion, his life will start and end with diapers.
